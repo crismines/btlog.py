@@ -1,0 +1,16 @@
+# Logs
+login_script.log
+
+# Credentials and output files
+logins.csv
+successful_logins.csv
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
